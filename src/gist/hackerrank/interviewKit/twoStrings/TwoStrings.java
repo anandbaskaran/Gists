@@ -1,4 +1,4 @@
-package gist.hackerrank.twoStrings;
+package gist.hackerrank.interviewKit.twoStrings;
 
 public class TwoStrings {
     // Worst case execution time for this program is n^2. Can do better for sure

@@ -1,4 +1,4 @@
-package gist.hackerrank.lowestCommonAnsistor;
+package gist.hackerrank.interviewKit.lowestCommonAnsistor;
 
 public class LowestCommonAnsistor {
     public  Node lca(Node root, int v1, int v2) {
