@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01c396c6-77f0-4d06-b7d1-9e1de54064ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/gist/hackerrank/beekeeper/Interview.java" afterDir="false" />
+    <list default="true" id="01c396c6-77f0-4d06-b7d1-9e1de54064ee" name="Default Changelist" comment="Commits">
+      <change afterPath="$PROJECT_DIR$/src/gist/hackerrank/interviewKit/alternatingCharacters/AlternatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gist/hackerrank/interviewKit/alternatingCharacters/AlternatingCharactersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gist/hackerrank/interviewKit/alternatingCharacters/AlternatingCharecters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/twoStrings/TwoStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/twoStrings/TwoStrings.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/twoStrings/TwoStringsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Gist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gist/META-INF/Gist.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/beekeeper/Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/beekeeper/Interview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/lowestCommonAnsistor/LowestCommonAnsistor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/lowestCommonAnsistor/LowestCommonAnsistor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/lowestCommonAnsistor/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/lowestCommonAnsistor/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/newYearChios/NewYearChios.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/newYearChios/NewYearChios.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/newYearChios/NewYearChiosTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/newYearChios/NewYearChiosTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/twoStrings/TwoStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/twoStrings/TwoStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/twoStrings/TwoStringsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/interviewKit/twoStrings/TwoStringsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/numbrs/shopingbudget/ShopingBudget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/numbrs/shopingbudget/ShopingBudget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/numbrs/shopingbudget/ShopingBudgetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Gist/gist/hackerrank/numbrs/shopingbudget/ShopingBudgetTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -43,9 +54,11 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="gist.hackerrank.interviewKit.alternatingCharacters" />
       <recent name="gist.hackerrank.twoStrings" />
       <recent name="gist.hackerrank.interviewKit.newYearChios" />
       <recent name="gist.hackerrank.numbrs" />
@@ -67,7 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Interview">
+  <component name="RunManager" selected="JUnit.AlternatingCharactersTest">
     <configuration name="Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gist.hackerrank.beekeeper.Interview" />
       <module name="Gist" />
@@ -81,16 +94,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewYearChiosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AlternatingCharactersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Gist" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gist.hackerrank.interviewKit.newYearChios.*" />
+          <option name="PATTERN" value="gist.hackerrank.interviewKit.alternatingCharacters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="gist.hackerrank.interviewKit.newYearChios" />
-      <option name="MAIN_CLASS_NAME" value="gist.hackerrank.interviewKit.newYearChios.NewYearChiosTest" />
+      <option name="PACKAGE_NAME" value="gist.hackerrank.interviewKit.alternatingCharacters" />
+      <option name="MAIN_CLASS_NAME" value="gist.hackerrank.interviewKit.alternatingCharacters.AlternatingCharactersTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,19 +157,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.NewYearChiosTest" />
+      <item itemvalue="Application.Interview" />
       <item itemvalue="JUnit.NewYearChiosTest.minimumBribes" />
       <item itemvalue="JUnit.TwoStringsTest" />
       <item itemvalue="JUnit.TwoStringsTest.twoStrings" />
-      <item itemvalue="Application.Interview" />
+      <item itemvalue="JUnit.AlternatingCharactersTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AlternatingCharactersTest" />
         <item itemvalue="Application.Interview" />
         <item itemvalue="JUnit.TwoStringsTest.twoStrings" />
         <item itemvalue="JUnit.TwoStringsTest" />
         <item itemvalue="JUnit.NewYearChiosTest.minimumBribes" />
-        <item itemvalue="JUnit.NewYearChiosTest" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +185,7 @@
       <updated>1574962310251</updated>
       <workItem from="1574962317950" duration="2238000" />
       <workItem from="1574969466099" duration="9684000" />
+      <workItem from="1575026642430" duration="957000" />
     </task>
     <servers />
   </component>
@@ -183,10 +197,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commits" />
   </component>
 </project>
